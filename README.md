@@ -1,6 +1,5 @@
   About Me:
-- 👋 Hi, I’m KumarKalyan
-- 👀 I’m interested in 
+- 👋 Hi, I’m Kumar Kalyan 
 - 🌱 I’m currently learning frontend developer
 - 💞️ I’m looking to collaborate on Software developer
 - 📫 Ask me About Frontend
