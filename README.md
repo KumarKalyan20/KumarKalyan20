@@ -1,6 +1,6 @@
   About Me:
 - 👋 Hi, I’m Kumar Kalyan 
-- 🌱 I’m currently learning frontend developer
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on Software developer
 - 📫 Ask me About Frontend
 - ⚡ learning and implementing new things
