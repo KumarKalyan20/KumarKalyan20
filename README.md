@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Catch Me On  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-github-profile) 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com) 
+[![LinkedIn](https://www.linkedin.com/in/kumar-kalyan-b53212301/)
+[![GitHub](https://github.com/KumarKalyan20)
+[![Gmail](kumarkalyan200320@gmail.com)
 
