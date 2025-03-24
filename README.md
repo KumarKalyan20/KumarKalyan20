@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Catch Me On  
 
-[![LinkedIn]()  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](your-github-link)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](your-instagram-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](your-twitter-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-github-profile) 
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com) 
+
