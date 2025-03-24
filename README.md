@@ -27,7 +27,9 @@ You can click the Preview link to take a look at your changes.
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+## ✍️ Typing SVG  
 
- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=500&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer.;I+love+learning+new+technologies!;Let's+connect!🚀)
+
 
 
